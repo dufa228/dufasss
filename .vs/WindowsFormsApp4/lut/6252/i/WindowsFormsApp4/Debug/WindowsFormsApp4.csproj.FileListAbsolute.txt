@@ -1,0 +1,12 @@
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WindowsFormsApp4\bin\Debug\Экология. Методика расчета.pdf
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WindowsFormsApp4\Debug\WindowsFormsApp4.pdb

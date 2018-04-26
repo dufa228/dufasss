@@ -1,0 +1,614 @@
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CopyComplete
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.05 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CopyComplete
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\v.v.lavrov\Desktop\WindowsFormsApp v1.18.03.07 - work\WindowsFormsApp v1.18.03.04 доп\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\EnvDTE80.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\VSLangProj.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\VSLangProj80.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\VSLangProj2.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Dropbox\СТУДЕНТЫ\!Бакалавры\2020 - Першин Андрей\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CopyComplete
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\ГОТОВО\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CopyComplete
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.dll.config
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\EnvDTE.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\stdole.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\Microsoft.MSXML.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.csproj.CopyComplete
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WaterRiverLib\obj\Debug\WaterRiverLib.pdb

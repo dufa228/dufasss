@@ -1,0 +1,918 @@
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.08\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\dr\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access\WindowsFormsApp4\bin\Debug\ZedGraph.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ZedGraph.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\WindowsFormsApp v1.18.03.09 - access — копия — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ZedGraph.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\каким то хуем работает\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ZedGraph.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\dufa\Desktop\каким то хуем работает — копия\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.glavnaya.resources
+C:\Users\Даша\Desktop\технология разработки ПО\ГОТОВО\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmMetodichka.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.glavnaya.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmMetodichka.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\ГОТОВО\1.18.04.01\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.glavnaya.resources
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmMetodichka.resources
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Даша\Desktop\технология разработки ПО\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.glavnaya.resources
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmMetodichka.resources
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\методичка.pdf
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\EnvDTE.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\stdole.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\Microsoft.MSXML.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.pdb
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\WaterRiverLib.dll.config
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.glavnaya.resources
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmMetodichka.resources
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmGraf.resources
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmReportAll.resources
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\дюфа\Desktop\ООП\1.18.04.01 с тестами\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

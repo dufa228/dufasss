@@ -1,0 +1,6 @@
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WaterRiverLib\bin\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\b\WaterRiverLib\bin\Debug\WaterRiverLib.pdb
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WaterRiverLib\Debug\WaterRiverLib.csprojResolveAssemblyReference.cache
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WaterRiverLib\Debug\WaterRiverLib.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WaterRiverLib\Debug\WaterRiverLib.dll
+C:\Users\Даша\Desktop\технология разработки ПО\проект\WindowsFormsApp v1.18.03.04 доп\.vs\WindowsFormsApp4\lut\0\i\WaterRiverLib\Debug\WaterRiverLib.pdb
